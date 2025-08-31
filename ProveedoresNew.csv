@@ -1,0 +1,11 @@
+CodProv,Nombre,Cuit,Tipo,CondIVA,obs,contacto,email,tel,categoria,importe,fecha,Ncuenta,ciudad,pais,DetalleEgreso,TipoCta,importeResultados
+P99999,TechSolutions S.A.,30-99999999-9,TECNOLOGIA,RESPONSABLE INSCR/ITO,,Laura Gutierrez,laura.g@tech.com,1122-3344,S.A.,185000,10/8/2024,501400,Buenos Aires,Argentina,Software Licencias,Gastos,-185000
+P99998,Logística Rápida,30-88888888-8,LOGISTICA,MONOTRIBUTISTA,,Pedro Sanchez,pedro.s@logistica.com,2233-4455,S.R.L.,92000,12/8/2024,503100,Córdoba,Argentina,Fletes y Transporte,Gastos,-92000
+P99997,ConstruArq Ltda.,30-77777777-7,CONSTRUCCION,RESPONSABLE INSCR/ITO,,Marta Ríos,marta@construarq.com,3344-5566,S.A.,210000,15/8/2024,516000,Rosario,Argentina,Materiales Obra,Gastos,-210000
+P99996,Consultora Omega,30-66666666-6,CONSULTORIA,MONOTRIBUTISTA,,Carlos Mendez,c.mendez@omega.com,4455-6677,S.R.L.,75000,18/8/2024,509100,Mendoza,Argentina,Asesoría Legal,Gastos,-75000
+P99995,Insumos Educativos,30-55555555-5,MATERIALES,RESPONSABLE INSCR/ITO,,Sofía Castro,sofia.c@insumos.com,5566-7788,S.A.,68000,20/8/2024,506100,La Plata,Argentina,Útiles Escolares,Gastos,-68000
+P99994,Servicios Digitales,30-44444444-4,TECNOLOGIA,MONOTRIBUTISTA,,Jorge Lima,jorge.l@digital.com,6677-8899,S.R.L.,115000,22/8/2024,501400,San Miguel de Tucumán,Argentina,Desarrollo Web,Gastos,-115000
+P99993,Alimentos Saludables,30-33333333-3,ALIMENTOS,MONOTRIBUTISTA,,Ana Torres,ana.t@alimentos.com,7788-9900,S.R.L.,45000,25/8/2024,503100,Mar del Plata,Argentina,Catering Eventos,Gastos,-45000
+P99992,Seguridad Total,30-22222222-2,SEGURIDAD,RESPONSABLE INSCR/ITO,,Luis Herrera,luis.h@seguridad.com,8899-0011,S.A.,135000,28/8/2024,509100,Salta,Argentina,Sistemas de Alarmas,Gastos,-135000
+P99991,Marketing Plus,30-11111111-1,MARKETING,MONOTRIBUTISTA,,Valeria Diaz,valeria.d@marketing.com,9900-1122,S.R.L.,88000,30/8/2024,516000,Neuquén,Argentina,Campañas Publicitarias,Gastos,-88000
+P99990,Energía Verde,30-00000000-0,ENERGIA,RESPONSABLE INSCR/ITO,,Roberto Sosa,roberto.s@verde.com,0011-2233,S.A.,175000,2/9/2024,506100,San Juan,Argentina,Paneles Solares,Gastos,-175000

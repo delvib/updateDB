@@ -1,0 +1,45 @@
+Nro de Cuenta;Nombre de Cuenta;Tipo de Cuenta;Descripción
+102201;Gastos Pagados por adelantado;Otros activos corto plazo;
+202001;Préstamos;Otros pasivos corto plazo;
+300010;Apertura Balance Inicial;Patrimonio Neto;
+401200;Ingresos Institucionales;Ingresos;Programas / Proyectos Sociales, Internacionales, Concursos
+402101;Ingresos Institucionales mensuales;Ingresos;
+402102;Donaciones Personales mensuales;Ingresos;
+403101;Donaciones Personales no recurrentes;Ingresos;
+403102;Ingresos Cuotas Asociados;Ingresos;
+403103;Ingresos Bonos Contribución;Ingresos;Para fines generales
+403106;Ingresos Internacionales Personales;Ingresos;De Personas en Moneda Extranjera (se valoriza en $ al TC)
+404100;Ingresos Estado;Ingresos;Subsidios Cargas Sociales, Programas Estatales, Becas Estatales, etc
+405100;Ingresos Servicios;Ingresos;Servicios Sociales, Asistencia Técnica, Educación, Matriculas, etc
+406100;Ingresos Eventos Institucionales;Ingresos;Institucionales o Bonos Contribución al Evento, Ingresos adicionales institucionales o Personales al Evento, Otros, etc
+409021;Donaciones en Especies;Ingresos;Donación de mercaderia que, si se registra, debe ser a un valor en $$$ que sea correcto de acuerdo al valor de mercado
+409099;Ingresos / Donaciones a clasificar o identificar;Ingresos;Ingreso sin identificar / clasificar. Al cierre dejar nula.
+501100;Sueldos Empleados;Gastos;Hacen al sueldo: Sueldo bruto, SAC, cargas sociales patronales, horas extras, sindicatos, seguros, vacaciones, etc
+501200;Honorarios Programas Sociales;Gastos;Trabajadores sociales, médicos, nutricionistas, enfermeria, pedagogicos, tutores, coordinacion, limpieza y cocina, apoyo escolar, etc
+501300;Honorarios Generales;Gastos;Contables, Administrativos, Legales, Escribanía, Auditoria, Liquidación Sueldos, RRHH, desarrollo fondos, voluntarios, etc
+501400;Honorarios Asesoría General;Gastos;Gestión, Comunicación Institucional, Voluntariado, Desarrollo de Fondos
+502100;Servicios Protagonistas;Gastos;Translados, lavado, cuidadores nocturnos, servicios sepelios, actividades recreativas, regalos, etc
+503100;Alimentación;Gastos;Comida protagonistas, bolsones comida, leche, suplemento nutricional, etc
+504100;Sanitarios;Gastos;Insumos médicos/enfermeria/odontologicos, medicamentos, analisis, consultas, emergencias, etc
+505100;Ayudas Económicas;Gastos;Becas Protagonistas, subsidios, descuentos, incobrables, becas aranceles educativos, etc
+506100;Insumos Pedagógicos;Gastos;Material didáctico, laboratorio, deportivo, artístico, libros, revistas y subscripciones
+507100;Insumos Varios Programas Sociales;Gastos;Accesorios, utiles, higiene personal, materia prima, etc
+508100;Formación;Gastos;Entrenamiento, capacitacion, alquileres proyectores, pantallas, salas, etc
+509100;Servicios Soporte;Gastos;Reparaciones, mantenimiento, insumos y servivios de limpieza, matafuegos, jardineria, seguridad, alarmas, vigilancia, etc
+510100;Viático General;Gastos;Refrigerio, transporte público, taxi, remisse, combi, fletes, etc
+510200;Viajes Locales;Gastos;Pasajes, hoteles, gasto representacion, etc en viajes DENTRO del Pais
+510300;Viajes Internacionales;Gastos;Pasajes, hoteles, gasto representacion, etc en viajes FUERA del Pais
+510500;Gastos Rodados;Gastos;Patente, seguro, lavado, mantenimiento, reparaciones, etc
+511000;Sede;Gastos;Gastos relacionados a la Sede… p.ej. Alquiler, expensas, refrigerio, telefonia, internet, tv, etc
+511200;Servicios Básicos;Gastos;Luz, Gas, Agua, Tasas y Contribuciones Municipales, etc
+512100;Sistemas informáticos;Gastos;Sueldos, Contable, Microfinanzas, mantenimiento, desarrollo,asesoria, etc
+513000;Básicos Generales;Gastos;Bancarios, Cobranza Fondos, Impuestos, Basicos Oficina, Librería, Envios masivos, Seguros,Tramites ONG, etc
+514100;Institucionales varios;Gastos;Desarrollo y material, reconocimiento, publicidad, promocion, telemarketing, internet, hosting, membrecias, herramientas digitales, etc
+515100;Eventos Institucionales;Gastos;Alquileres, catering, planners, musicalizacion, salas, proyecciones, espectaculos, presentadores, SADAIC,seguros, premios, etc
+516000;Gastos varios;Gastos;Celulares, capacitacion equipo interno, uniformes, delantales, decoración sede, busqueda y despido personal, multas, otros gastos, etc
+601001;Intereses ganados en pesos;Resultados financieros netos;Intereses Ganados - Moneda Local
+601002;Intereses pagados;Resultados financieros netos;
+601003;Intereses ganados en u$s;Resultados financieros netos;Intereses Ganados - Moneda extranjera
+601005;Diferencia de Cambio;Resultados financieros netos;
+601007;Resultado por Tenencia;Resultados financieros netos;Tenencia de bienes o valores cuotasparte en fondos inversion
+601008;Resultado por Compraventa de Bonos;Resultados financieros netos;Compraventa Acciones, Bonos y otros Titulos Valores
